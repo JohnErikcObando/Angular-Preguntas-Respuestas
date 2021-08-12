@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.row {
+  width: 100%;
+}
+
+.card {
+  padding: 20px;
+}
+
+h3 {
+  font-family: 'Rowdies', cursive;
+}
+
+.Cuenta {
+  color: #F05F44;
+}
+
+.btn-login {
+  background-color: #F05F44;
+  border-color: #F05F44;
+}
